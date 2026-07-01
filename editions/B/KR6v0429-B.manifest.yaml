@@ -1,0 +1,8324 @@
+canonical_identifier: bkk:krp/KR6v0429/B/v1
+canonical_location: https://kanripo.org/bkk/KR6v0429/B/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 武林梵志
+  identifiers:
+    krp: KR6v0429
+    cbeta: B29n0161
+    cbeta_old_id: B29n0161
+    authorityid: CA0006247
+    json_key: B0161
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B29/B29n0161.xml
+    old_id: B29n0161
+  edition:
+    short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0429_000-B.yaml, hash: 'sha256:2d58340cb64381620123d4088ec7c97feddc64a4a2ba3ab3a49360b4a477b808'}
+  - {seq: 1, filename: KR6v0429_001-B.yaml, hash: 'sha256:74621ee9729624855541e5398b04c7fe157a5cf818516498f0b018c31a5feb61'}
+  - {seq: 2, filename: KR6v0429_002-B.yaml, hash: 'sha256:54fd3a140f87dcffa7faa5b366268da09330f60e5173e0487a6fe8976b7185f4'}
+  - {seq: 3, filename: KR6v0429_003-B.yaml, hash: 'sha256:263fbe8ea04b3758b89cff91d3cd22fd84ab20552b9cad81df120db834bc7eab'}
+  - {seq: 4, filename: KR6v0429_004-B.yaml, hash: 'sha256:efff6de91b5aec461e804ca255e6eddde855c5b8a6883bb0ca056c94f42c68ce'}
+  - {seq: 5, filename: KR6v0429_005-B.yaml, hash: 'sha256:bd02051ed564c1da61c368d8a223bb75d7ac93039e29f682fda6a3e3ea19561e'}
+  - {seq: 6, filename: KR6v0429_006-B.yaml, hash: 'sha256:4339820a01ae089569615e3fd213f04e7f3ddf5dca8525a2176f36d36e3c3cf2'}
+  - {seq: 7, filename: KR6v0429_007-B.yaml, hash: 'sha256:ae1218167043381c3a75b40e8c93fb24ee4fa4c6865cce1f7c56dd2dc58c90a7'}
+  - {seq: 8, filename: KR6v0429_008-B.yaml, hash: 'sha256:fb8435bb3d01c07a488a2233cc0ebe7524f072cbfc3c4bfd05f8c166877d3194'}
+  - {seq: 9, filename: KR6v0429_009-B.yaml, hash: 'sha256:081901c586ba582c1ebb905b45db6d5fa435437bb19d142be1cedd5879dce197'}
+  - {seq: 10, filename: KR6v0429_010-B.yaml, hash: 'sha256:b0d9fc84fc3d2f8045dda3a7340d264b2eeb1b07d0ba4b5067eed64f102e0f08'}
+  - {seq: 11, filename: KR6v0429_011-B.yaml, hash: 'sha256:5937904a119cf74678db22604294b298ba5529e243ac4a51986897818e4aad50'}
+  - {seq: 12, filename: KR6v0429_012-B.yaml, hash: 'sha256:127298923a4783690e8ba9ccef90cad0bfce96834271a7782c5cb0444796aeb2'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0429_000-B.markers.yaml, hash: 'sha256:f84714bdc1c2916cda29dfad049d8d0620922164ac2edf2d6eefe357dc8ed743'}
+  - {seq: 1, role: markers, filename: assets/KR6v0429_001-B.markers.yaml, hash: 'sha256:c7f43584112637a2f3f6a0d66174be90d4653b8c66b50626dfcb3495708c5c5b'}
+  - {seq: 2, role: markers, filename: assets/KR6v0429_002-B.markers.yaml, hash: 'sha256:85c89ad79b13819f2cecfaf3aeae529a708b9f15776782cd21278ed35b1ae21c'}
+  - {seq: 3, role: markers, filename: assets/KR6v0429_003-B.markers.yaml, hash: 'sha256:525d1a32119ab0626f43f0c2ee7f51388ec8f90f750aeedc6f9e96bf1dca77a0'}
+  - {seq: 4, role: markers, filename: assets/KR6v0429_004-B.markers.yaml, hash: 'sha256:0686001897c83608324b3830911df438a015204cdf456c6161ce6895c1066967'}
+  - {seq: 5, role: markers, filename: assets/KR6v0429_005-B.markers.yaml, hash: 'sha256:8e67ad05c291cd40b5a0b44a03a3801563b99dcf9a65d460fb65b2eb72c842d9'}
+  - {seq: 6, role: markers, filename: assets/KR6v0429_006-B.markers.yaml, hash: 'sha256:0399fe5313c5693b79a9a6250eabea92a09b0437970e612d781f8e1b0eafe3c5'}
+  - {seq: 7, role: markers, filename: assets/KR6v0429_007-B.markers.yaml, hash: 'sha256:dd4a25059a750accd8a216828786861032ead4f88594d1d94a14f5de4d18efa6'}
+  - {seq: 8, role: markers, filename: assets/KR6v0429_008-B.markers.yaml, hash: 'sha256:560937b90b99fc1482ea010a7a5a4268759f87eed2dd3cde97cd5bac0cd85a94'}
+  - {seq: 9, role: markers, filename: assets/KR6v0429_009-B.markers.yaml, hash: 'sha256:2f010cff36c5addc7d0a72a590899cea006225706627c8d9cbc6a6069557c066'}
+  - {seq: 10, role: markers, filename: assets/KR6v0429_010-B.markers.yaml, hash: 'sha256:4c526fffdf51ee09d6dbb2946890fa6840867f7f06b015f1530b87a1b251cf3c'}
+  - {seq: 11, role: markers, filename: assets/KR6v0429_011-B.markers.yaml, hash: 'sha256:e375f54136ab806bdf1140098c65cc93ad492bddb00e2895073aaf6993ebf26e'}
+  - {seq: 12, role: markers, filename: assets/KR6v0429_012-B.markers.yaml, hash: 'sha256:37bda3a03623ff10d2fbb779f90feb5808d97b7b2927bb8768fe34f538c8dbb1'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0429_B_000-mulu-1
+    span:
+    - front
+    - 22
+    - 22
+  label: 提要
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 13564
+  label: '欽定四庫全書
+
+    　武林梵志卷一'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-1
+    span:
+    - body
+    - 5
+    - 5
+  label: 城內梵剎
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-2
+    span:
+    - body
+    - 46
+    - 46
+  label: 仙林慈恩普濟教寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-3
+    span:
+    - body
+    - 266
+    - 266
+  label: 天長淨心寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-4
+    span:
+    - body
+    - 485
+    - 485
+  label: 壽聖寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-5
+    span:
+    - body
+    - 629
+    - 629
+  label: 吉祥律寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-6
+    span:
+    - body
+    - 1185
+    - 1185
+  label: 大中祥符律寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-7
+    span:
+    - body
+    - 1477
+    - 1477
+  label: 長壽庵
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-8
+    span:
+    - body
+    - 2244
+    - 2244
+  label: 青蓮寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-9
+    span:
+    - body
+    - 2363
+    - 2363
+  label: 崇福庵
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-10
+    span:
+    - body
+    - 2455
+    - 2455
+  label: 法輪寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-11
+    span:
+    - body
+    - 2516
+    - 2516
+  label: 棲禪雪洞院
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-12
+    span:
+    - body
+    - 2661
+    - 2661
+  label: 興福寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-13
+    span:
+    - body
+    - 2711
+    - 2711
+  label: 止止菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-14
+    span:
+    - body
+    - 2730
+    - 2730
+  label: 廣壽慧雲禪寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-15
+    span:
+    - body
+    - 4654
+    - 4654
+  label: 七寶寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-16
+    span:
+    - body
+    - 4697
+    - 4697
+  label: 普照院
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-17
+    span:
+    - body
+    - 4747
+    - 4747
+  label: 潮鳴寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-18
+    span:
+    - body
+    - 4846
+    - 4846
+  label: 普慈寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-19
+    span:
+    - body
+    - 4870
+    - 4870
+  label: 水月菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-20
+    span:
+    - body
+    - 4897
+    - 4897
+  label: 蓮居菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-21
+    span:
+    - body
+    - 5698
+    - 5698
+  label: 華藏寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-22
+    span:
+    - body
+    - 5795
+    - 5795
+  label: 悟空寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-23
+    span:
+    - body
+    - 5849
+    - 5849
+  label: 長明寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-24
+    span:
+    - body
+    - 5911
+    - 5911
+  label: 相國寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-25
+    span:
+    - body
+    - 6081
+    - 6081
+  label: 靈芝崇福律寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-26
+    span:
+    - body
+    - 6358
+    - 6358
+  label: 大慈菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-27
+    span:
+    - body
+    - 6385
+    - 6385
+  label: 金剛廣福教寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-28
+    span:
+    - body
+    - 6476
+    - 6476
+  label: 妙淨菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-29
+    span:
+    - body
+    - 6512
+    - 6512
+  label: 祗園寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-30
+    span:
+    - body
+    - 6555
+    - 6555
+  label: 東岡寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-31
+    span:
+    - body
+    - 6589
+    - 6589
+  label: 惠林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-32
+    span:
+    - body
+    - 6653
+    - 6653
+  label: 佛惠寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-33
+    span:
+    - body
+    - 6682
+    - 6682
+  label: 崇寧萬壽教寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-34
+    span:
+    - body
+    - 6745
+    - 6745
+  label: 慈雲寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-35
+    span:
+    - body
+    - 6809
+    - 6809
+  label: 水陸寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-36
+    span:
+    - body
+    - 6925
+    - 6925
+  label: 白蓮寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-37
+    span:
+    - body
+    - 6976
+    - 6976
+  label: 下水陸寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-38
+    span:
+    - body
+    - 7040
+    - 7040
+  label: 孝義菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-39
+    span:
+    - body
+    - 7672
+    - 7672
+  label: 崇恩延福院
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-40
+    span:
+    - body
+    - 7715
+    - 7715
+  label: 聖壽寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-41
+    span:
+    - body
+    - 7766
+    - 7766
+  label: 覺苑寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-42
+    span:
+    - body
+    - 7797
+    - 7797
+  label: 千頃廣化院
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-43
+    span:
+    - body
+    - 8063
+    - 8063
+  label: 明慶寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-44
+    span:
+    - body
+    - 8530
+    - 8530
+  label: 菩提律寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-45
+    span:
+    - body
+    - 8840
+    - 8840
+  label: 靈壽寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-46
+    span:
+    - body
+    - 8896
+    - 8896
+  label: 安國羅漢寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-47
+    span:
+    - body
+    - 8973
+    - 8973
+  label: 上方寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-48
+    span:
+    - body
+    - 10048
+    - 10048
+  label: 妙心寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-49
+    span:
+    - body
+    - 10071
+    - 10071
+  label: 長生菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-50
+    span:
+    - body
+    - 10297
+    - 10297
+  label: 比勝廟
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-51
+    span:
+    - body
+    - 10319
+    - 10319
+  label: 慈濟院
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-52
+    span:
+    - body
+    - 10432
+    - 10432
+  label: 真教寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-53
+    span:
+    - body
+    - 10577
+    - 10577
+  label: 慈光寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-54
+    span:
+    - body
+    - 11292
+    - 11292
+  label: 慧安寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-55
+    span:
+    - body
+    - 11357
+    - 11357
+  label: 寶梵寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-56
+    span:
+    - body
+    - 11422
+    - 11422
+  label: 海會寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-57
+    span:
+    - body
+    - 11494
+    - 11494
+  label: 百法寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-58
+    span:
+    - body
+    - 11551
+    - 11551
+  label: 寶奎寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-59
+    span:
+    - body
+    - 11767
+    - 11767
+  label: 寶成寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-60
+    span:
+    - body
+    - 11988
+    - 11988
+  label: 雲居聖水寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-61
+    span:
+    - body
+    - 12334
+    - 12334
+  label: 上方菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-62
+    span:
+    - body
+    - 12391
+    - 12391
+  label: 金波禪院
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-63
+    span:
+    - body
+    - 12449
+    - 12449
+  label: 寶嚴院
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-64
+    span:
+    - body
+    - 12818
+    - 12818
+  label: 廣嚴寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-65
+    span:
+    - body
+    - 13141
+    - 13141
+  label: 開元寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-66
+    span:
+    - body
+    - 13246
+    - 13246
+  label: 開寶仁王寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-67
+    span:
+    - body
+    - 13350
+    - 13350
+  label: 定水寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0429_B_001-mulu-68
+    span:
+    - body
+    - 13491
+    - 13491
+  label: 戒壇院
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-juan-start
+    span:
+    - body
+    - 0
+    - 13007
+  label: '欽定四庫全書
+
+    　武林梵志卷二'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-1
+    span:
+    - body
+    - 5
+    - 5
+  label: 城外南山分脈
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-2
+    span:
+    - body
+    - 25
+    - 25
+  label: 梅竹菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-3
+    span:
+    - body
+    - 47
+    - 47
+  label: 般若院
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-4
+    span:
+    - body
+    - 74
+    - 74
+  label: 報先菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-5
+    span:
+    - body
+    - 566
+    - 566
+  label: 報國寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-6
+    span:
+    - body
+    - 692
+    - 692
+  label: 梵天講寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-7
+    span:
+    - body
+    - 1473
+    - 1473
+  label: 棲雲菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-8
+    span:
+    - body
+    - 1601
+    - 1601
+  label: 勝果禪寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-9
+    span:
+    - body
+    - 3545
+    - 3545
+  label: 善應總持菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-10
+    span:
+    - body
+    - 3643
+    - 3643
+  label: 圓通菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-11
+    span:
+    - body
+    - 3692
+    - 3692
+  label: 福田慶壽寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-12
+    span:
+    - body
+    - 3757
+    - 3757
+  label: 延聖寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-13
+    span:
+    - body
+    - 3846
+    - 3846
+  label: 普濟寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-14
+    span:
+    - body
+    - 3940
+    - 3940
+  label: 萬壽寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-15
+    span:
+    - body
+    - 3977
+    - 3977
+  label: 資教菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-16
+    span:
+    - body
+    - 4035
+    - 4035
+  label: 潮音菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-17
+    span:
+    - body
+    - 4053
+    - 4053
+  label: 黑菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-18
+    span:
+    - body
+    - 4059
+    - 4059
+  label: 吉祥寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-19
+    span:
+    - body
+    - 4095
+    - 4095
+  label: 寶華院
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-20
+    span:
+    - body
+    - 4110
+    - 4110
+  label: 聖壽禪寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-21
+    span:
+    - body
+    - 4146
+    - 4146
+  label: 鎮海禪院
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-22
+    span:
+    - body
+    - 4225
+    - 4225
+  label: 真如寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-23
+    span:
+    - body
+    - 4255
+    - 4255
+  label: 正定菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-24
+    span:
+    - body
+    - 4271
+    - 4271
+  label: 普陀菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-25
+    span:
+    - body
+    - 4293
+    - 4293
+  label: 永慶寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-26
+    span:
+    - body
+    - 4335
+    - 4335
+  label: 延壽白石寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-27
+    span:
+    - body
+    - 4385
+    - 4385
+  label: 崇福寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-28
+    span:
+    - body
+    - 4426
+    - 4426
+  label: 因果寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-29
+    span:
+    - body
+    - 4466
+    - 4466
+  label: 寶界寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-30
+    span:
+    - body
+    - 4496
+    - 4496
+  label: 定香寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-31
+    span:
+    - body
+    - 4542
+    - 4542
+  label: 月塘寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-32
+    span:
+    - body
+    - 4619
+    - 4619
+  label: 正宗菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-33
+    span:
+    - body
+    - 4650
+    - 4650
+  label: 大慈禪寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-34
+    span:
+    - body
+    - 4693
+    - 4693
+  label: 下天真寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-35
+    span:
+    - body
+    - 4745
+    - 4745
+  label: 六湛菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-36
+    span:
+    - body
+    - 4773
+    - 4773
+  label: 善慧禪寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-37
+    span:
+    - body
+    - 4853
+    - 4853
+  label: 真覺院
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-38
+    span:
+    - body
+    - 4864
+    - 4864
+  label: 淨因寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-39
+    span:
+    - body
+    - 4964
+    - 4964
+  label: 普福菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-40
+    span:
+    - body
+    - 4975
+    - 4975
+  label: 萬壽菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-41
+    span:
+    - body
+    - 4984
+    - 4984
+  label: 奉聖禪寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-42
+    span:
+    - body
+    - 5128
+    - 5128
+  label: 普寧菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-43
+    span:
+    - body
+    - 5514
+    - 5514
+  label: 道林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-44
+    span:
+    - body
+    - 5572
+    - 5572
+  label: 龍華禪寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-45
+    span:
+    - body
+    - 5815
+    - 5815
+  label: 兜率菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-46
+    span:
+    - body
+    - 5903
+    - 5903
+  label: 永壽禪寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-47
+    span:
+    - body
+    - 5981
+    - 5981
+  label: 上天真寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-48
+    span:
+    - body
+    - 6040
+    - 6040
+  label: 天龍禪寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-49
+    span:
+    - body
+    - 6370
+    - 6370
+  label: 淨明院
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-50
+    span:
+    - body
+    - 6404
+    - 6404
+  label: 天華禪寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-51
+    span:
+    - body
+    - 6476
+    - 6476
+  label: 勝相寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-52
+    span:
+    - body
+    - 6815
+    - 6815
+  label: 妙因菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-53
+    span:
+    - body
+    - 6835
+    - 6835
+  label: 保和寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-54
+    span:
+    - body
+    - 6889
+    - 6889
+  label: 九曜寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-55
+    span:
+    - body
+    - 6977
+    - 6977
+  label: 廣澤禪寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-56
+    span:
+    - body
+    - 7065
+    - 7065
+  label: 定慧禪寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-57
+    span:
+    - body
+    - 8188
+    - 8188
+  label: 襲慶禪寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-58
+    span:
+    - body
+    - 8286
+    - 8286
+  label: 六和塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-59
+    span:
+    - body
+    - 9217
+    - 9217
+  label: 開化寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-60
+    span:
+    - body
+    - 9334
+    - 9334
+  label: 朝陽菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-61
+    span:
+    - body
+    - 9364
+    - 9364
+  label: 五雲山真際院
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-62
+    span:
+    - body
+    - 9707
+    - 9707
+  label: 雲棲寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-63
+    span:
+    - body
+    - 12391
+    - 12391
+  label: 天柱寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-64
+    span:
+    - body
+    - 12410
+    - 12410
+  label: 妙山菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-65
+    span:
+    - body
+    - 12420
+    - 12420
+  label: 白沙菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-66
+    span:
+    - body
+    - 12432
+    - 12432
+  label: 棲真寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-67
+    span:
+    - body
+    - 12444
+    - 12444
+  label: 定安寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-68
+    span:
+    - body
+    - 12452
+    - 12452
+  label: 定明寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-69
+    span:
+    - body
+    - 12460
+    - 12460
+  label: 金蓮寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-70
+    span:
+    - body
+    - 12468
+    - 12468
+  label: 妙靜寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-71
+    span:
+    - body
+    - 12588
+    - 12588
+  label: 定南寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-72
+    span:
+    - body
+    - 12595
+    - 12595
+  label: 慈巖院
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-73
+    span:
+    - body
+    - 12828
+    - 12828
+  label: 龍門菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0429_B_002-mulu-74
+    span:
+    - body
+    - 12854
+    - 12854
+  label: 光明寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0429_B_003-juan-start
+    span:
+    - body
+    - 0
+    - 8840
+  label: '欽定四庫全書
+
+    　武林梵志卷三'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0429_B_003-mulu-1
+    span:
+    - body
+    - 5
+    - 5
+  label: 城外南山分脉
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0429_B_003-mulu-2
+    span:
+    - body
+    - 20
+    - 20
+  label: 靈芝寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0429_B_003-mulu-3
+    span:
+    - body
+    - 102
+    - 102
+  label: 褒親崇壽教寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0429_B_003-mulu-4
+    span:
+    - body
+    - 396
+    - 396
+  label: 觀音菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0429_B_003-mulu-5
+    span:
+    - body
+    - 408
+    - 408
+  label: 頭陀菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0429_B_003-mulu-6
+    span:
+    - body
+    - 501
+    - 501
+  label: 香圓菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0429_B_003-mulu-7
+    span:
+    - body
+    - 515
+    - 515
+  label: 淨慈寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0429_B_003-mulu-8
+    span:
+    - body
+    - 1125
+    - 1125
+  label: 雷峯塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0429_B_003-mulu-9
+    span:
+    - body
+    - 1488
+    - 1488
+  label: 湖心寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0429_B_003-mulu-10
+    span:
+    - body
+    - 1668
+    - 1668
+  label: 惠因講寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0429_B_003-mulu-11
+    span:
+    - body
+    - 2115
+    - 2115
+  label: 六通律寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0429_B_003-mulu-12
+    span:
+    - body
+    - 2460
+    - 2460
+  label: 法相寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0429_B_003-mulu-13
+    span:
+    - body
+    - 3943
+    - 3943
+  label: 大仁院
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0429_B_003-mulu-14
+    span:
+    - body
+    - 4079
+    - 4079
+  label: 大慈菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0429_B_003-mulu-15
+    span:
+    - body
+    - 4087
+    - 4087
+  label: 滿覺院
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0429_B_003-mulu-16
+    span:
+    - body
+    - 4134
+    - 4134
+  label: 歸雲菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0429_B_003-mulu-17
+    span:
+    - body
+    - 4174
+    - 4174
+  label: 烟霞寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0429_B_003-mulu-18
+    span:
+    - body
+    - 4595
+    - 4595
+  label: 淨心院
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0429_B_003-mulu-19
+    span:
+    - body
+    - 4776
+    - 4776
+  label: 榮國禪寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0429_B_003-mulu-20
+    span:
+    - body
+    - 5032
+    - 5032
+  label: 最上菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0429_B_003-mulu-21
+    span:
+    - body
+    - 5134
+    - 5134
+  label: 覺照菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0429_B_003-mulu-22
+    span:
+    - body
+    - 5178
+    - 5178
+  label: 綠蘿菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0429_B_003-mulu-23
+    span:
+    - body
+    - 5198
+    - 5198
+  label: 演福菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0429_B_003-mulu-24
+    span:
+    - body
+    - 5685
+    - 5685
+  label: 延恩衍慶寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0429_B_003-mulu-25
+    span:
+    - body
+    - 6230
+    - 6230
+  label: 鉢池菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0429_B_003-mulu-26
+    span:
+    - body
+    - 6268
+    - 6268
+  label: 老龍井
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0429_B_003-mulu-27
+    span:
+    - body
+    - 6388
+    - 6388
+  label: 方圓菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0429_B_003-mulu-28
+    span:
+    - body
+    - 7159
+    - 7159
+  label: 波羅菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0429_B_003-mulu-29
+    span:
+    - body
+    - 7183
+    - 7183
+  label: 報恩寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0429_B_003-mulu-30
+    span:
+    - body
+    - 7389
+    - 7389
+  label: 理安禪寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-juan-start
+    span:
+    - body
+    - 0
+    - 18669
+  label: '欽定四庫全書
+
+    　武林梵志卷四'
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-1
+    span:
+    - body
+    - 5
+    - 5
+  label: 北山分脉一
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-2
+    span:
+    - body
+    - 16
+    - 16
+  label: 香積寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-3
+    span:
+    - body
+    - 82
+    - 82
+  label: 妙行寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-4
+    span:
+    - body
+    - 1232
+    - 1232
+  label: 法雲寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-5
+    span:
+    - body
+    - 1790
+    - 1790
+  label: 定光寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-6
+    span:
+    - body
+    - 2497
+    - 2497
+  label: 永慈寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-7
+    span:
+    - body
+    - 2627
+    - 2627
+  label: 化度寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-8
+    span:
+    - body
+    - 2686
+    - 2686
+  label: 寶覺豐樂寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-9
+    span:
+    - body
+    - 2761
+    - 2761
+  label: 顯教寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-10
+    span:
+    - body
+    - 3671
+    - 3671
+  label: 福壽寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-11
+    span:
+    - body
+    - 3919
+    - 3919
+  label: 大覺禪院
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-12
+    span:
+    - body
+    - 4988
+    - 4988
+  label: 智果院
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-13
+    span:
+    - body
+    - 5227
+    - 5227
+  label: 永寧菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-14
+    span:
+    - body
+    - 5286
+    - 5286
+  label: 西方菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-15
+    span:
+    - body
+    - 5341
+    - 5341
+  label: 廣教寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-16
+    span:
+    - body
+    - 5898
+    - 5898
+  label: 昭化寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-17
+    span:
+    - body
+    - 6287
+    - 6287
+  label: 崇興寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-18
+    span:
+    - body
+    - 6461
+    - 6461
+  label: 崇先顯孝華嚴教寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-19
+    span:
+    - body
+    - 6570
+    - 6570
+  label: 普潤寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-20
+    span:
+    - body
+    - 7284
+    - 7284
+  label: 普化庵
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-21
+    span:
+    - body
+    - 7301
+    - 7301
+  label: 治平寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-22
+    span:
+    - body
+    - 7343
+    - 7343
+  label: 寶嚴寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-23
+    span:
+    - body
+    - 7442
+    - 7442
+  label: 興化菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-24
+    span:
+    - body
+    - 7476
+    - 7476
+  label: 真如寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-25
+    span:
+    - body
+    - 7523
+    - 7523
+  label: 覺圓寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-26
+    span:
+    - body
+    - 7555
+    - 7555
+  label: 鐵佛普明寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-27
+    span:
+    - body
+    - 7672
+    - 7672
+  label: 永慶寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-28
+    span:
+    - body
+    - 7727
+    - 7727
+  label: 永興寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-29
+    span:
+    - body
+    - 8070
+    - 8070
+  label: 佛慧寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-30
+    span:
+    - body
+    - 8989
+    - 8989
+  label: 報先寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-31
+    span:
+    - body
+    - 9042
+    - 9042
+  label: 真覺院
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-32
+    span:
+    - body
+    - 9112
+    - 9112
+  label: 豐禾菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-33
+    span:
+    - body
+    - 9209
+    - 9209
+  label: 慈嚴寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-34
+    span:
+    - body
+    - 9226
+    - 9226
+  label: 慈泉寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-35
+    span:
+    - body
+    - 9234
+    - 9234
+  label: 廣福寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-36
+    span:
+    - body
+    - 9242
+    - 9242
+  label: 寂福寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-37
+    span:
+    - body
+    - 9250
+    - 9250
+  label: 定安寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-38
+    span:
+    - body
+    - 9258
+    - 9258
+  label: 定明寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-39
+    span:
+    - body
+    - 9266
+    - 9266
+  label: 金蓮寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-40
+    span:
+    - body
+    - 9274
+    - 9274
+  label: 棲真寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-41
+    span:
+    - body
+    - 9282
+    - 9282
+  label: 無諍寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-42
+    span:
+    - body
+    - 9293
+    - 9293
+  label: 禪智寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-43
+    span:
+    - body
+    - 9304
+    - 9304
+  label: 法性寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-44
+    span:
+    - body
+    - 9319
+    - 9319
+  label: 真寂寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-45
+    span:
+    - body
+    - 9357
+    - 9357
+  label: 大雲寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-46
+    span:
+    - body
+    - 9368
+    - 9368
+  label: 重興寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-47
+    span:
+    - body
+    - 9380
+    - 9380
+  label: 荀山寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-48
+    span:
+    - body
+    - 9395
+    - 9395
+  label: 廣化寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-49
+    span:
+    - body
+    - 9714
+    - 9714
+  label: 淨安院
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-50
+    span:
+    - body
+    - 9767
+    - 9767
+  label: 正續寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-51
+    span:
+    - body
+    - 9807
+    - 9807
+  label: 寶慧菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-52
+    span:
+    - body
+    - 9844
+    - 9844
+  label: 圓覺菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-53
+    span:
+    - body
+    - 9862
+    - 9862
+  label: 東明寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-54
+    span:
+    - body
+    - 9882
+    - 9882
+  label: 長慶寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-55
+    span:
+    - body
+    - 9893
+    - 9893
+  label: 寶林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-56
+    span:
+    - body
+    - 9907
+    - 9907
+  label: 東蓮寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-57
+    span:
+    - body
+    - 10341
+    - 10341
+  label: 妙智寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-58
+    span:
+    - body
+    - 10359
+    - 10359
+  label: 智勝寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-59
+    span:
+    - body
+    - 10502
+    - 10502
+  label: 廣福寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-60
+    span:
+    - body
+    - 10513
+    - 10513
+  label: 觀音寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-61
+    span:
+    - body
+    - 10537
+    - 10537
+  label: 正等寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-62
+    span:
+    - body
+    - 10550
+    - 10550
+  label: 仁壽寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-63
+    span:
+    - body
+    - 10555
+    - 10555
+  label: 報福寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-64
+    span:
+    - body
+    - 10563
+    - 10563
+  label: 佛日寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-65
+    span:
+    - body
+    - 10667
+    - 10667
+  label: 天王寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-66
+    span:
+    - body
+    - 10720
+    - 10720
+  label: 保江寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-67
+    span:
+    - body
+    - 10766
+    - 10766
+  label: 慧日寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-68
+    span:
+    - body
+    - 10806
+    - 10806
+  label: 純一院
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-69
+    span:
+    - body
+    - 10838
+    - 10838
+  label: 萬壽菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-70
+    span:
+    - body
+    - 10979
+    - 10979
+  label: 資慶院
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-71
+    span:
+    - body
+    - 11312
+    - 11312
+  label: 清流禪院
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-72
+    span:
+    - body
+    - 11438
+    - 11438
+  label: 普濟院
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-73
+    span:
+    - body
+    - 11505
+    - 11505
+  label: 德雲菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-74
+    span:
+    - body
+    - 11756
+    - 11756
+  label: 永清禪院
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-75
+    span:
+    - body
+    - 11790
+    - 11790
+  label: 大圓菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-76
+    span:
+    - body
+    - 11992
+    - 11992
+  label: 化城菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-77
+    span:
+    - body
+    - 12024
+    - 12024
+  label: 泗水菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-78
+    span:
+    - body
+    - 12599
+    - 12599
+  label: 廣濟菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-79
+    span:
+    - body
+    - 12669
+    - 12669
+  label: 崇勝寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-80
+    span:
+    - body
+    - 12713
+    - 12713
+  label: 寶華寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-81
+    span:
+    - body
+    - 12762
+    - 12762
+  label: 普濟寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-82
+    span:
+    - body
+    - 12786
+    - 12786
+  label: 崇覺寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-83
+    span:
+    - body
+    - 12813
+    - 12813
+  label: 興福菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-84
+    span:
+    - body
+    - 12848
+    - 12848
+  label: 普寧寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-85
+    span:
+    - body
+    - 12947
+    - 12947
+  label: 普濟院
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-86
+    span:
+    - body
+    - 12989
+    - 12989
+  label: 昇平廟
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-87
+    span:
+    - body
+    - 13010
+    - 13010
+  label: 圓通菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-88
+    span:
+    - body
+    - 13043
+    - 13043
+  label: 泰清菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-89
+    span:
+    - body
+    - 13064
+    - 13064
+  label: 定心菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-90
+    span:
+    - body
+    - 13084
+    - 13084
+  label: 資福菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-91
+    span:
+    - body
+    - 13104
+    - 13104
+  label: 普門菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-92
+    span:
+    - body
+    - 13125
+    - 13125
+  label: 膝泉菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-93
+    span:
+    - body
+    - 13156
+    - 13156
+  label: 黃龍菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-94
+    span:
+    - body
+    - 13374
+    - 13374
+  label: 龍珠菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-95
+    span:
+    - body
+    - 13425
+    - 13425
+  label: 大覺菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-96
+    span:
+    - body
+    - 13450
+    - 13450
+  label: 巧山菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-97
+    span:
+    - body
+    - 13477
+    - 13477
+  label: 林雅菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-98
+    span:
+    - body
+    - 13496
+    - 13496
+  label: 圓通菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-99
+    span:
+    - body
+    - 13518
+    - 13518
+  label: 永慶禪寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-100
+    span:
+    - body
+    - 14068
+    - 14068
+  label: 大悲妙心菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-101
+    span:
+    - body
+    - 14093
+    - 14093
+  label: 薔薇菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-102
+    span:
+    - body
+    - 14109
+    - 14109
+  label: 慧覺院
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-103
+    span:
+    - body
+    - 14237
+    - 14237
+  label: 慈孝菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-104
+    span:
+    - body
+    - 14256
+    - 14256
+  label: 龍峰菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-105
+    span:
+    - body
+    - 14307
+    - 14307
+  label: 大雲菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-106
+    span:
+    - body
+    - 14348
+    - 14348
+  label: 梅石菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-107
+    span:
+    - body
+    - 14444
+    - 14444
+  label: 聚石菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-108
+    span:
+    - body
+    - 14488
+    - 14488
+  label: 㑚伽菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-109
+    span:
+    - body
+    - 14515
+    - 14515
+  label: 功德院
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-110
+    span:
+    - body
+    - 14592
+    - 14592
+  label: 圓教禪寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-111
+    span:
+    - body
+    - 14639
+    - 14639
+  label: 普慈菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-112
+    span:
+    - body
+    - 14671
+    - 14671
+  label: 靈花菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-113
+    span:
+    - body
+    - 14713
+    - 14713
+  label: 臥龍菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-114
+    span:
+    - body
+    - 14748
+    - 14748
+  label: 白蓮菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-115
+    span:
+    - body
+    - 14771
+    - 14771
+  label: 定慧菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-116
+    span:
+    - body
+    - 14791
+    - 14791
+  label: 法華菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-117
+    span:
+    - body
+    - 14805
+    - 14805
+  label: 烟石居
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-118
+    span:
+    - body
+    - 14828
+    - 14828
+  label: 翠󸍚菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-119
+    span:
+    - body
+    - 14860
+    - 14860
+  label: 秀水菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-120
+    span:
+    - body
+    - 14887
+    - 14887
+  label: 吉祥菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-121
+    span:
+    - body
+    - 14928
+    - 14928
+  label: 西向菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-122
+    span:
+    - body
+    - 14964
+    - 14964
+  label: 華藏菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-123
+    span:
+    - body
+    - 14997
+    - 14997
+  label: 永福菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-124
+    span:
+    - body
+    - 15009
+    - 15009
+  label: 般若菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-125
+    span:
+    - body
+    - 15023
+    - 15023
+  label: 徧福寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-126
+    span:
+    - body
+    - 15129
+    - 15129
+  label: 茶湯寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-127
+    span:
+    - body
+    - 15238
+    - 15238
+  label: 長壽寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-128
+    span:
+    - body
+    - 15651
+    - 15651
+  label: 上塔伏虎禪院
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-129
+    span:
+    - body
+    - 15729
+    - 15729
+  label: 中塔悟空禪院
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-130
+    span:
+    - body
+    - 15955
+    - 15955
+  label: 下塔月明菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-131
+    span:
+    - body
+    - 16701
+    - 16701
+  label: 法華菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-132
+    span:
+    - body
+    - 16717
+    - 16717
+  label: 柳翠菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-133
+    span:
+    - body
+    - 16728
+    - 16728
+  label: 興教寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-134
+    span:
+    - body
+    - 16768
+    - 16768
+  label: 華嚴菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-135
+    span:
+    - body
+    - 16794
+    - 16794
+  label: 金佛寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-136
+    span:
+    - body
+    - 16985
+    - 16985
+  label: 無垢院
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-137
+    span:
+    - body
+    - 17119
+    - 17119
+  label: 善曇寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-138
+    span:
+    - body
+    - 17200
+    - 17200
+  label: 鼎湖寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-139
+    span:
+    - body
+    - 17274
+    - 17274
+  label: 安隱寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-140
+    span:
+    - body
+    - 17428
+    - 17428
+  label: 勝安寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-141
+    span:
+    - body
+    - 17655
+    - 17655
+  label: 廣嚴寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-142
+    span:
+    - body
+    - 18083
+    - 18083
+  label: 淨惠寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-143
+    span:
+    - body
+    - 18170
+    - 18170
+  label: 蓮華窟
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-144
+    span:
+    - body
+    - 18246
+    - 18246
+  label: 明覺院
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-145
+    span:
+    - body
+    - 18345
+    - 18345
+  label: 龍興寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-146
+    span:
+    - body
+    - 18401
+    - 18401
+  label: 大安寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-147
+    span:
+    - body
+    - 18451
+    - 18451
+  label: 驀直菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-148
+    span:
+    - body
+    - 18491
+    - 18491
+  label: 彌陀菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0429_B_004-mulu-149
+    span:
+    - body
+    - 18584
+    - 18584
+  label: 龍華菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-juan-start
+    span:
+    - body
+    - 0
+    - 15334
+  label: '欽定四庫全書
+
+    　武林梵志卷五'
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-1
+    span:
+    - body
+    - 5
+    - 5
+  label: 北山分脉二
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-2
+    span:
+    - body
+    - 17
+    - 17
+  label: 菩提院
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-3
+    span:
+    - body
+    - 67
+    - 67
+  label: 真覺院
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-4
+    span:
+    - body
+    - 73
+    - 73
+  label: 法濟院
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-5
+    span:
+    - body
+    - 86
+    - 86
+  label: 妙因院
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-6
+    span:
+    - body
+    - 93
+    - 93
+  label: 寶嚴院
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-7
+    span:
+    - body
+    - 101
+    - 101
+  label: 昭慶律寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-8
+    span:
+    - body
+    - 432
+    - 432
+  label: 大佛寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-9
+    span:
+    - body
+    - 934
+    - 934
+  label: 金輪寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-10
+    span:
+    - body
+    - 978
+    - 978
+  label: 保叔寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-11
+    span:
+    - body
+    - 1636
+    - 1636
+  label: 相嚴院
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-12
+    span:
+    - body
+    - 1671
+    - 1671
+  label: 智果禪寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-13
+    span:
+    - body
+    - 2158
+    - 2158
+  label: 治平寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-14
+    span:
+    - body
+    - 2174
+    - 2174
+  label: 壽星寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-15
+    span:
+    - body
+    - 2464
+    - 2464
+  label: 寶雲寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-16
+    span:
+    - body
+    - 2693
+    - 2693
+  label: 瑪瑙寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-17
+    span:
+    - body
+    - 2972
+    - 2972
+  label: 招賢寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-18
+    span:
+    - body
+    - 3101
+    - 3101
+  label: 嘉德永壽講寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-19
+    span:
+    - body
+    - 3228
+    - 3228
+  label: 鳳林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-20
+    span:
+    - body
+    - 3375
+    - 3375
+  label: 君子泉
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-21
+    span:
+    - body
+    - 3446
+    - 3446
+  label: 妙智庵
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-22
+    span:
+    - body
+    - 3542
+    - 3542
+  label: 護國仁王講寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-23
+    span:
+    - body
+    - 5345
+    - 5345
+  label: 雙桐菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-24
+    span:
+    - body
+    - 5437
+    - 5437
+  label: 淨性寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-25
+    span:
+    - body
+    - 5472
+    - 5472
+  label: 淨業堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-26
+    span:
+    - body
+    - 5545
+    - 5545
+  label: 碧漪蓮社
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-27
+    span:
+    - body
+    - 5668
+    - 5668
+  label: 玉泉寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-28
+    span:
+    - body
+    - 7096
+    - 7096
+  label: 靈峯寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-29
+    span:
+    - body
+    - 7979
+    - 7979
+  label: 普福講寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-30
+    span:
+    - body
+    - 8159
+    - 8159
+  label: 圓覺天台教寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-31
+    span:
+    - body
+    - 8365
+    - 8365
+  label: 黑觀音堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-32
+    span:
+    - body
+    - 8491
+    - 8491
+  label: 集慶講寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-33
+    span:
+    - body
+    - 8791
+    - 8791
+  label: 靈隱禪寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-34
+    span:
+    - body
+    - 11012
+    - 11012
+  label: 𡵺嶁山房
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-35
+    span:
+    - body
+    - 11106
+    - 11106
+  label: 韜光庵
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-36
+    span:
+    - body
+    - 11307
+    - 11307
+  label: 永福禪院
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-37
+    span:
+    - body
+    - 11466
+    - 11466
+  label: 無著禪師塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-38
+    span:
+    - body
+    - 11577
+    - 11577
+  label: 鄴公庵
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-39
+    span:
+    - body
+    - 11687
+    - 11687
+  label: 白衲庵
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-40
+    span:
+    - body
+    - 11742
+    - 11742
+  label: 大桐庵
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-41
+    span:
+    - body
+    - 11757
+    - 11757
+  label: 薦福寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-42
+    span:
+    - body
+    - 11919
+    - 11919
+  label: 下天竺寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-43
+    span:
+    - body
+    - 12620
+    - 12620
+  label: 三生庵
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0429_B_005-mulu-44
+    span:
+    - body
+    - 12801
+    - 12801
+  label: 中天竺寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-juan-start
+    span:
+    - body
+    - 0
+    - 20942
+  label: '欽定四庫全書
+
+    　武林梵志卷六'
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-1
+    span:
+    - body
+    - 5
+    - 5
+  label: 外七縣梵剎
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-2
+    span:
+    - body
+    - 10
+    - 10
+  label: 海寧縣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-3
+    span:
+    - body
+    - 13
+    - 13
+  label: 太平廣福寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-4
+    span:
+    - body
+    - 144
+    - 144
+  label: 崇教寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-5
+    span:
+    - body
+    - 211
+    - 211
+  label: 真如寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-6
+    span:
+    - body
+    - 445
+    - 445
+  label: 真相寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-7
+    span:
+    - body
+    - 500
+    - 500
+  label: 崇惠寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-8
+    span:
+    - body
+    - 562
+    - 562
+  label: 西山廣福院
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-9
+    span:
+    - body
+    - 872
+    - 872
+  label: 金佛寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-10
+    span:
+    - body
+    - 943
+    - 943
+  label: 永寧寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-11
+    span:
+    - body
+    - 972
+    - 972
+  label: 薦福寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-12
+    span:
+    - body
+    - 1053
+    - 1053
+  label: 安國寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-13
+    span:
+    - body
+    - 1735
+    - 1735
+  label: 延恩寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-14
+    span:
+    - body
+    - 1825
+    - 1825
+  label: 東岡廣福寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-15
+    span:
+    - body
+    - 1899
+    - 1899
+  label: 覺王寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-16
+    span:
+    - body
+    - 1980
+    - 1980
+  label: 淨妙寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-17
+    span:
+    - body
+    - 2059
+    - 2059
+  label: 興福寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-18
+    span:
+    - body
+    - 2110
+    - 2110
+  label: 資勝寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-19
+    span:
+    - body
+    - 2176
+    - 2176
+  label: 吉祥寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-20
+    span:
+    - body
+    - 2228
+    - 2228
+  label: 菩提寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-21
+    span:
+    - body
+    - 2244
+    - 2244
+  label: 惠力寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-22
+    span:
+    - body
+    - 2385
+    - 2385
+  label: 淨信寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-23
+    span:
+    - body
+    - 2490
+    - 2490
+  label: 富陽縣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-24
+    span:
+    - body
+    - 2493
+    - 2493
+  label: 法相寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-25
+    span:
+    - body
+    - 2684
+    - 2684
+  label: 淨居寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-26
+    span:
+    - body
+    - 2759
+    - 2759
+  label: 偃松寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-27
+    span:
+    - body
+    - 2943
+    - 2943
+  label: 能仁寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-28
+    span:
+    - body
+    - 3114
+    - 3114
+  label: 寶相寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-29
+    span:
+    - body
+    - 3179
+    - 3179
+  label: 妙智寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-30
+    span:
+    - body
+    - 3343
+    - 3343
+  label: 慈修護聖禪寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-31
+    span:
+    - body
+    - 3770
+    - 3770
+  label: 永寧寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-32
+    span:
+    - body
+    - 4069
+    - 4069
+  label: 龍景寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-33
+    span:
+    - body
+    - 4098
+    - 4098
+  label: 真寂寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-34
+    span:
+    - body
+    - 4190
+    - 4190
+  label: 大雄寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-35
+    span:
+    - body
+    - 4318
+    - 4318
+  label: 華盖仙山寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-36
+    span:
+    - body
+    - 5043
+    - 5043
+  label: 淨土庵
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-37
+    span:
+    - body
+    - 5082
+    - 5082
+  label: 天鐘院
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-38
+    span:
+    - body
+    - 5800
+    - 5800
+  label: 餘杭縣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-39
+    span:
+    - body
+    - 5803
+    - 5803
+  label: 永安寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-40
+    span:
+    - body
+    - 6065
+    - 6065
+  label: 南山普寧禪寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-41
+    span:
+    - body
+    - 6163
+    - 6163
+  label: 慈聖寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-42
+    span:
+    - body
+    - 6301
+    - 6301
+  label: 光孝寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-43
+    span:
+    - body
+    - 6494
+    - 6494
+  label: 徑山興聖萬壽禪寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-44
+    span:
+    - body
+    - 9900
+    - 9900
+  label: 化城寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-45
+    span:
+    - body
+    - 10644
+    - 10644
+  label: 大祿寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-46
+    span:
+    - body
+    - 10961
+    - 10961
+  label: 洞霄宮
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-47
+    span:
+    - body
+    - 12684
+    - 12684
+  label: 臨安縣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-48
+    span:
+    - body
+    - 12687
+    - 12687
+  label: 海會寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-49
+    span:
+    - body
+    - 13257
+    - 13257
+  label: 淨土禪寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-50
+    span:
+    - body
+    - 13674
+    - 13674
+  label: 太平萬壽禪院
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-51
+    span:
+    - body
+    - 14781
+    - 14781
+  label: 玲瓏山大雄殿
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-52
+    span:
+    - body
+    - 14905
+    - 14905
+  label: 化城院
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-53
+    span:
+    - body
+    - 15070
+    - 15070
+  label: 興教院
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-54
+    span:
+    - body
+    - 15199
+    - 15199
+  label: 淨應院
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-55
+    span:
+    - body
+    - 15286
+    - 15286
+  label: 雙林院
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-56
+    span:
+    - body
+    - 15402
+    - 15402
+  label: 福勝院
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-57
+    span:
+    - body
+    - 15573
+    - 15573
+  label: 東天目山昭明禪寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-58
+    span:
+    - body
+    - 16341
+    - 16341
+  label: 西天目山獅子正宗禪寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-59
+    span:
+    - body
+    - 18010
+    - 18010
+  label: 天台傳教庵
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-60
+    span:
+    - body
+    - 18052
+    - 18052
+  label: 新城縣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-61
+    span:
+    - body
+    - 18055
+    - 18055
+  label: 普照院
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-62
+    span:
+    - body
+    - 18168
+    - 18168
+  label: 東白院
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-63
+    span:
+    - body
+    - 18477
+    - 18477
+  label: 黑山蟠龍庵
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-64
+    span:
+    - body
+    - 18814
+    - 18814
+  label: 咽水洞
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-65
+    span:
+    - body
+    - 19161
+    - 19161
+  label: 寶勝院
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-66
+    span:
+    - body
+    - 19281
+    - 19281
+  label: 寶乘寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-67
+    span:
+    - body
+    - 19625
+    - 19625
+  label: 寧國寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-68
+    span:
+    - body
+    - 20237
+    - 20237
+  label: 於潛縣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-69
+    span:
+    - body
+    - 20240
+    - 20240
+  label: 獅子正宗禪寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-70
+    span:
+    - body
+    - 20323
+    - 20323
+  label: 寂照教寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-71
+    span:
+    - body
+    - 20500
+    - 20500
+  label: 昌化縣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0429_B_006-mulu-72
+    span:
+    - body
+    - 20503
+    - 20503
+  label: 治平寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0429_B_007-juan-start
+    span:
+    - body
+    - 0
+    - 724
+  label: '欽定四庫全書
+
+    　武林梵志卷七'
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0429_B_007-mulu-1
+    span:
+    - body
+    - 5
+    - 5
+  label: 天朝寵錫
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-juan-start
+    span:
+    - body
+    - 0
+    - 17600
+  label: '欽定四庫全書
+
+    　武林梵志卷八'
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-1
+    span:
+    - body
+    - 5
+    - 5
+  label: 宰官護持
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-2
+    span:
+    - body
+    - 328
+    - 328
+  label: 陶潛
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-3
+    span:
+    - body
+    - 473
+    - 473
+  label: 謝靈運
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-4
+    span:
+    - body
+    - 662
+    - 662
+  label: 范元琰
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-5
+    span:
+    - body
+    - 715
+    - 715
+  label: 楊衒之
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-6
+    span:
+    - body
+    - 818
+    - 818
+  label: 褚亮
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-7
+    span:
+    - body
+    - 919
+    - 919
+  label: 褚遂良
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-8
+    span:
+    - body
+    - 1071
+    - 1071
+  label: 賈島
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-9
+    span:
+    - body
+    - 1153
+    - 1153
+  label: 駱賔王
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-10
+    span:
+    - body
+    - 1458
+    - 1458
+  label: 李白
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-11
+    span:
+    - body
+    - 1612
+    - 1612
+  label: 李泌
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-12
+    span:
+    - body
+    - 1839
+    - 1839
+  label: 虞允文
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-13
+    span:
+    - body
+    - 1925
+    - 1925
+  label: 楊綰
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-14
+    span:
+    - body
+    - 2005
+    - 2005
+  label: 劉禹錫
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-15
+    span:
+    - body
+    - 2024
+    - 2024
+  label: 孟簡
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-16
+    span:
+    - body
+    - 2042
+    - 2042
+  label: 白居易
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-17
+    span:
+    - body
+    - 2392
+    - 2392
+  label: 王勃
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-18
+    span:
+    - body
+    - 2470
+    - 2470
+  label: 裴度
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-19
+    span:
+    - body
+    - 2581
+    - 2581
+  label: 錢鏐
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-20
+    span:
+    - body
+    - 2773
+    - 2773
+  label: 呂蒙正
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-21
+    span:
+    - body
+    - 2996
+    - 2996
+  label: 楊億
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-22
+    span:
+    - body
+    - 3079
+    - 3079
+  label: 王旦
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-23
+    span:
+    - body
+    - 3216
+    - 3216
+  label: 王隨
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-24
+    span:
+    - body
+    - 3529
+    - 3529
+  label: 趙抃
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-25
+    span:
+    - body
+    - 3964
+    - 3964
+  label: 歐陽修
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-26
+    span:
+    - body
+    - 4714
+    - 4714
+  label: 范仲淹
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-27
+    span:
+    - body
+    - 4923
+    - 4923
+  label: 蔡襄
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-28
+    span:
+    - body
+    - 5015
+    - 5015
+  label: 司馬光
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-29
+    span:
+    - body
+    - 5345
+    - 5345
+  label: 王安石
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-30
+    span:
+    - body
+    - 5658
+    - 5658
+  label: 蘇軾
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-31
+    span:
+    - body
+    - 5884
+    - 5884
+  label: 蘇轍
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-32
+    span:
+    - body
+    - 6255
+    - 6255
+  label: 陳師道
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-33
+    span:
+    - body
+    - 6384
+    - 6384
+  label: 仲殊
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-34
+    span:
+    - body
+    - 6582
+    - 6582
+  label: 米芾
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-35
+    span:
+    - body
+    - 6909
+    - 6909
+  label: 陳瓘
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-36
+    span:
+    - body
+    - 7226
+    - 7226
+  label: 史浩
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-37
+    span:
+    - body
+    - 7355
+    - 7355
+  label: 楊傑
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-38
+    span:
+    - body
+    - 7623
+    - 7623
+  label: 秦觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-39
+    span:
+    - body
+    - 7881
+    - 7881
+  label: 黃庭堅
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-40
+    span:
+    - body
+    - 8272
+    - 8272
+  label: 李邴
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-41
+    span:
+    - body
+    - 8498
+    - 8498
+  label: 呂本中
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-42
+    span:
+    - body
+    - 8822
+    - 8822
+  label: 張商英
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-43
+    span:
+    - body
+    - 9166
+    - 9166
+  label: 王以寧
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-44
+    span:
+    - body
+    - 9342
+    - 9342
+  label: 張浚
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-45
+    span:
+    - body
+    - 9589
+    - 9589
+  label: 曹勛
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-46
+    span:
+    - body
+    - 9647
+    - 9647
+  label: 程珌
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-47
+    span:
+    - body
+    - 9681
+    - 9681
+  label: 張九成
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-48
+    span:
+    - body
+    - 10287
+    - 10287
+  label: 曾開
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-49
+    span:
+    - body
+    - 10491
+    - 10491
+  label: 提刑吳偉明居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-50
+    span:
+    - body
+    - 10573
+    - 10573
+  label: 張鎡
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-51
+    span:
+    - body
+    - 10723
+    - 10723
+  label: 林希逸
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-52
+    span:
+    - body
+    - 10901
+    - 10901
+  label: 鄭清之
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-53
+    span:
+    - body
+    - 11119
+    - 11119
+  label: 甄龍友
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-54
+    span:
+    - body
+    - 11157
+    - 11157
+  label: 曾公亮
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-55
+    span:
+    - body
+    - 11534
+    - 11534
+  label: 林逋
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-56
+    span:
+    - body
+    - 11677
+    - 11677
+  label: 貫雲石
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-57
+    span:
+    - body
+    - 11914
+    - 11914
+  label: 朱熹
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-58
+    span:
+    - body
+    - 12469
+    - 12469
+  label: 陸游
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-59
+    span:
+    - body
+    - 12711
+    - 12711
+  label: 真德秀
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-60
+    span:
+    - body
+    - 13079
+    - 13079
+  label: 郡守謝朝議
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-61
+    span:
+    - body
+    - 13174
+    - 13174
+  label: 宋給事中
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-62
+    span:
+    - body
+    - 13289
+    - 13289
+  label: 武林守陳公襄
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-63
+    span:
+    - body
+    - 13346
+    - 13346
+  label: 州牧劉彥慕
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-64
+    span:
+    - body
+    - 13365
+    - 13365
+  label: 宋丞相喬行
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-65
+    span:
+    - body
+    - 13394
+    - 13394
+  label: 岳飛
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-66
+    span:
+    - body
+    - 13463
+    - 13463
+  label: 錢象祖
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-67
+    span:
+    - body
+    - 13566
+    - 13566
+  label: 潛說友
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-68
+    span:
+    - body
+    - 13621
+    - 13621
+  label: 李端愿
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-69
+    span:
+    - body
+    - 13766
+    - 13766
+  label: 鄧文原
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-70
+    span:
+    - body
+    - 13914
+    - 13914
+  label: 趙孟頫
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-71
+    span:
+    - body
+    - 14052
+    - 14052
+  label: 馮子振
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-72
+    span:
+    - body
+    - 14161
+    - 14161
+  label: 黃溍
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-73
+    span:
+    - body
+    - 14348
+    - 14348
+  label: 虞集
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-74
+    span:
+    - body
+    - 14624
+    - 14624
+  label: 白珽
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-75
+    span:
+    - body
+    - 14682
+    - 14682
+  label: 仇遠
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-76
+    span:
+    - body
+    - 14749
+    - 14749
+  label: 鄭所南
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-77
+    span:
+    - body
+    - 15027
+    - 15027
+  label: 張翥
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-78
+    span:
+    - body
+    - 15145
+    - 15145
+  label: 趙羾
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-79
+    span:
+    - body
+    - 15321
+    - 15321
+  label: 周密
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-80
+    span:
+    - body
+    - 15400
+    - 15400
+  label: 楊維楨
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-81
+    span:
+    - body
+    - 15517
+    - 15517
+  label: 劉基
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-82
+    span:
+    - body
+    - 15710
+    - 15710
+  label: 宋濂
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-83
+    span:
+    - body
+    - 15989
+    - 15989
+  label: 高啟
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-84
+    span:
+    - body
+    - 16027
+    - 16027
+  label: 張羽
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-85
+    span:
+    - body
+    - 16109
+    - 16109
+  label: 姚廣孝
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-86
+    span:
+    - body
+    - 16325
+    - 16325
+  label: 張寧
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-87
+    span:
+    - body
+    - 16390
+    - 16390
+  label: 聶大年
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-88
+    span:
+    - body
+    - 16471
+    - 16471
+  label: 陳基
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-89
+    span:
+    - body
+    - 16545
+    - 16545
+  label: 徐一夔
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-90
+    span:
+    - body
+    - 16656
+    - 16656
+  label: 于謙
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-91
+    span:
+    - body
+    - 16874
+    - 16874
+  label: 錢溥
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-92
+    span:
+    - body
+    - 17033
+    - 17033
+  label: 王守仁
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0429_B_008-mulu-93
+    span:
+    - body
+    - 17271
+    - 17271
+  label: 孫一元
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-juan-start
+    span:
+    - body
+    - 0
+    - 22342
+  label: '欽定四庫全書
+
+    　武林梵志卷九'
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-1
+    span:
+    - body
+    - 5
+    - 5
+  label: 古德機緣一
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-2
+    span:
+    - body
+    - 103
+    - 103
+  label: 靈隱寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-3
+    span:
+    - body
+    - 106
+    - 106
+  label: 慧理法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-4
+    span:
+    - body
+    - 191
+    - 191
+  label: 實逵禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-5
+    span:
+    - body
+    - 304
+    - 304
+  label: 守直律師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-6
+    span:
+    - body
+    - 452
+    - 452
+  label: 道標侍者
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-7
+    span:
+    - body
+    - 547
+    - 547
+  label: 皎然侍者
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-8
+    span:
+    - body
+    - 624
+    - 624
+  label: 鑑空法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-9
+    span:
+    - body
+    - 940
+    - 940
+  label: 道齊尊師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-10
+    span:
+    - body
+    - 1093
+    - 1093
+  label: 韜光禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-11
+    span:
+    - body
+    - 1221
+    - 1221
+  label: 智一尊師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-12
+    span:
+    - body
+    - 1370
+    - 1370
+  label: 靈隱清聳禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-13
+    span:
+    - body
+    - 1507
+    - 1507
+  label: 𢍆嵩禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-14
+    span:
+    - body
+    - 1701
+    - 1701
+  label: 普慈禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-15
+    span:
+    - body
+    - 1787
+    - 1787
+  label: 德章禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-16
+    span:
+    - body
+    - 1910
+    - 1910
+  label: 蘊聰禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-17
+    span:
+    - body
+    - 1961
+    - 1961
+  label: 文勝禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-18
+    span:
+    - body
+    - 2044
+    - 2044
+  label: 雲知禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-19
+    span:
+    - body
+    - 2083
+    - 2083
+  label: 正童禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-20
+    span:
+    - body
+    - 2121
+    - 2121
+  label: 延珊禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-21
+    span:
+    - body
+    - 2364
+    - 2364
+  label: 重顯禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-22
+    span:
+    - body
+    - 2497
+    - 2497
+  label: 慧淳禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-23
+    span:
+    - body
+    - 2590
+    - 2590
+  label: 寂室禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-24
+    span:
+    - body
+    - 2700
+    - 2700
+  label: 瞎堂禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-25
+    span:
+    - body
+    - 3341
+    - 3341
+  label: 覺阿侍者
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-26
+    span:
+    - body
+    - 3541
+    - 3541
+  label: 德光禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-27
+    span:
+    - body
+    - 3687
+    - 3687
+  label: 誰庵禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-28
+    span:
+    - body
+    - 3742
+    - 3742
+  label: 懶庵禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-29
+    span:
+    - body
+    - 3898
+    - 3898
+  label: 最庵禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-30
+    span:
+    - body
+    - 4094
+    - 4094
+  label: 悅堂禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-31
+    span:
+    - body
+    - 4252
+    - 4252
+  label: 竹田禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-32
+    span:
+    - body
+    - 4489
+    - 4489
+  label: 妙峰善禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-33
+    span:
+    - body
+    - 5101
+    - 5101
+  label: 石皷希夷禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-34
+    span:
+    - body
+    - 5590
+    - 5590
+  label: 鐵牛印禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-35
+    span:
+    - body
+    - 5683
+    - 5683
+  label: 松源崇岳禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-36
+    span:
+    - body
+    - 6219
+    - 6219
+  label: 笑庵了悟禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-37
+    span:
+    - body
+    - 6291
+    - 6291
+  label: 高原祖泉禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-38
+    span:
+    - body
+    - 6390
+    - 6390
+  label: 竹泉法林禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-39
+    span:
+    - body
+    - 7129
+    - 7129
+  label: 性原慧朗禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-40
+    span:
+    - body
+    - 7629
+    - 7629
+  label: 天鏡原瀞禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-41
+    span:
+    - body
+    - 8015
+    - 8015
+  label: 退耕寧禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-42
+    span:
+    - body
+    - 8158
+    - 8158
+  label: 守仁禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-43
+    span:
+    - body
+    - 8338
+    - 8338
+  label: 淨慈寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-44
+    span:
+    - body
+    - 8341
+    - 8341
+  label: 五代杭州永明寺道潛禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-45
+    span:
+    - body
+    - 9014
+    - 9014
+  label: 慧日永明延壽智覺禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-46
+    span:
+    - body
+    - 9657
+    - 9657
+  label: 慧日永明寺道鴻通辯禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-47
+    span:
+    - body
+    - 9810
+    - 9810
+  label: 宗本圓照禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-48
+    span:
+    - body
+    - 10696
+    - 10696
+  label: 善本大通禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-49
+    span:
+    - body
+    - 11059
+    - 11059
+  label: 音堂彥充禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-50
+    span:
+    - body
+    - 11644
+    - 11644
+  label: 佛智端裕禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-51
+    span:
+    - body
+    - 12543
+    - 12543
+  label: 水庵師一禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-52
+    span:
+    - body
+    - 12892
+    - 12892
+  label: 自得慧暉禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-53
+    span:
+    - body
+    - 13771
+    - 13771
+  label: 混源曇密禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-54
+    span:
+    - body
+    - 14113
+    - 14113
+  label: 楚明寶印禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-55
+    span:
+    - body
+    - 14380
+    - 14380
+  label: 木庵安永禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-56
+    span:
+    - body
+    - 14713
+    - 14713
+  label: 石田禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-57
+    span:
+    - body
+    - 14931
+    - 14931
+  label: 偃溪廣聞禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-58
+    span:
+    - body
+    - 15609
+    - 15609
+  label: 淮海原肇禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-59
+    span:
+    - body
+    - 15944
+    - 15944
+  label: 荊叟如珏禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-60
+    span:
+    - body
+    - 16184
+    - 16184
+  label: 晦機元熙禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-61
+    span:
+    - body
+    - 16756
+    - 16756
+  label: 虛堂智愚禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-62
+    span:
+    - body
+    - 17278
+    - 17278
+  label: 斷橋妙倫禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-63
+    span:
+    - body
+    - 17817
+    - 17817
+  label: 北磵居簡禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-64
+    span:
+    - body
+    - 18382
+    - 18382
+  label: 笑翁妙堪禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-65
+    span:
+    - body
+    - 18992
+    - 18992
+  label: 東叟仲穎禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-66
+    span:
+    - body
+    - 19271
+    - 19271
+  label: 孤雲權禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-67
+    span:
+    - body
+    - 19419
+    - 19419
+  label: 退谷義雲禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-68
+    span:
+    - body
+    - 19627
+    - 19627
+  label: 介石明禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-69
+    span:
+    - body
+    - 19762
+    - 19762
+  label: 晦翁悟明禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-70
+    span:
+    - body
+    - 19936
+    - 19936
+  label: 谷源道禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-71
+    span:
+    - body
+    - 19996
+    - 19996
+  label: 潛庵慧光禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-72
+    span:
+    - body
+    - 20046
+    - 20046
+  label: 大用普濟禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-73
+    span:
+    - body
+    - 20176
+    - 20176
+  label: 無極觀禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-74
+    span:
+    - body
+    - 20214
+    - 20214
+  label: 石林行鞏禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-75
+    span:
+    - body
+    - 20582
+    - 20582
+  label: 石帆衍禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-76
+    span:
+    - body
+    - 20657
+    - 20657
+  label: 簡翁敬禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-77
+    span:
+    - body
+    - 20708
+    - 20708
+  label: 愚極慧禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-78
+    span:
+    - body
+    - 20957
+    - 20957
+  label: 愚庵智及禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-79
+    span:
+    - body
+    - 21595
+    - 21595
+  label: 本源善達禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-80
+    span:
+    - body
+    - 21771
+    - 21771
+  label: 清溪泥禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-81
+    span:
+    - body
+    - 21845
+    - 21845
+  label: 宋南屏道臻法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0429_B_009-mulu-82
+    span:
+    - body
+    - 22075
+    - 22075
+  label: 宋道濟
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-juan-start
+    span:
+    - body
+    - 0
+    - 21271
+  label: '欽定四庫全書
+
+    　武林梵志卷十'
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-1
+    span:
+    - body
+    - 5
+    - 5
+  label: 古德機緣二
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-2
+    span:
+    - body
+    - 5
+    - 5
+  label: 徑山寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-3
+    span:
+    - body
+    - 8
+    - 8
+  label: 大覺國一禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-4
+    span:
+    - body
+    - 619
+    - 619
+  label: 無上禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-5
+    span:
+    - body
+    - 831
+    - 831
+  label: 法濟禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-6
+    span:
+    - body
+    - 1812
+    - 1812
+  label: 大禪明禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-7
+    span:
+    - body
+    - 1986
+    - 1986
+  label: 佛日大慧杲禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-8
+    span:
+    - body
+    - 2109
+    - 2109
+  label: 密菴傑禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-9
+    span:
+    - body
+    - 2146
+    - 2146
+  label: 別峰印禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-10
+    span:
+    - body
+    - 2307
+    - 2307
+  label: 佛照普慈宗覺光禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-11
+    span:
+    - body
+    - 2385
+    - 2385
+  label: 癡絕道冲禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-12
+    span:
+    - body
+    - 3104
+    - 3104
+  label: 雲峰高禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-13
+    span:
+    - body
+    - 3287
+    - 3287
+  label: 佛日普照元叟端禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-14
+    span:
+    - body
+    - 3591
+    - 3591
+  label: 月林鏡禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-15
+    span:
+    - body
+    - 3857
+    - 3857
+  label: 浙翁如琰禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-16
+    span:
+    - body
+    - 4020
+    - 4020
+  label: 蒙菴元聰禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-17
+    span:
+    - body
+    - 4177
+    - 4177
+  label: 塗毒智策禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-18
+    span:
+    - body
+    - 4547
+    - 4547
+  label: 照堂了一禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-19
+    span:
+    - body
+    - 4638
+    - 4638
+  label: 上天竺寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-20
+    span:
+    - body
+    - 4642
+    - 4642
+  label: 唐錢塘上天竺寺道翊法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-21
+    span:
+    - body
+    - 4843
+    - 4843
+  label: 釋法詵
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-22
+    span:
+    - body
+    - 5190
+    - 5190
+  label: 子儀心印水月大師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-23
+    span:
+    - body
+    - 5371
+    - 5371
+  label: 天竺證悟法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-24
+    span:
+    - body
+    - 5548
+    - 5548
+  label: 杭州上天竺我菴本無法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-25
+    span:
+    - body
+    - 5759
+    - 5759
+  label: 從諫慈辯講師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-26
+    span:
+    - body
+    - 5849
+    - 5849
+  label: 杭州普門寺希辨禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-27
+    span:
+    - body
+    - 6152
+    - 6152
+  label: 中天竺寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-28
+    span:
+    - body
+    - 6156
+    - 6156
+  label: 󱢽堂中仁禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-29
+    span:
+    - body
+    - 6453
+    - 6453
+  label: 癡禪玄妙禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-30
+    span:
+    - body
+    - 6582
+    - 6582
+  label: 一關逵禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-31
+    span:
+    - body
+    - 6909
+    - 6909
+  label: 雪屋珂禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-32
+    span:
+    - body
+    - 7103
+    - 7103
+  label: 一溪自如禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-33
+    span:
+    - body
+    - 7349
+    - 7349
+  label: 季潭泐禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-34
+    span:
+    - body
+    - 7540
+    - 7540
+  label: 下天竺寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-35
+    span:
+    - body
+    - 7544
+    - 7544
+  label: 宋慈雲法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-36
+    span:
+    - body
+    - 7798
+    - 7798
+  label: 隋觀法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-37
+    span:
+    - body
+    - 8107
+    - 8107
+  label: 集慶寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-38
+    span:
+    - body
+    - 8110
+    - 8110
+  label: 集慶法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-39
+    span:
+    - body
+    - 8648
+    - 8648
+  label: 滅幻禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-40
+    span:
+    - body
+    - 8770
+    - 8770
+  label: 普福寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-41
+    span:
+    - body
+    - 8773
+    - 8773
+  label: 普福法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-42
+    span:
+    - body
+    - 9281
+    - 9281
+  label: 鳳林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-43
+    span:
+    - body
+    - 9284
+    - 9284
+  label: 唐鳥窠道林禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-44
+    span:
+    - body
+    - 9525
+    - 9525
+  label: 杭州招賢寺會通禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-45
+    span:
+    - body
+    - 9974
+    - 9974
+  label: 智果寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-46
+    span:
+    - body
+    - 9977
+    - 9977
+  label: 錢塘道潛禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-47
+    span:
+    - body
+    - 10194
+    - 10194
+  label: 瑪瑙寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-48
+    span:
+    - body
+    - 10197
+    - 10197
+  label: 宋孤山法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-49
+    span:
+    - body
+    - 10465
+    - 10465
+  label: 孤山祥符寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-50
+    span:
+    - body
+    - 10470
+    - 10470
+  label: 法師可久
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-51
+    span:
+    - body
+    - 10626
+    - 10626
+  label: 湖心寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-52
+    span:
+    - body
+    - 10629
+    - 10629
+  label: 紹岩居
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-53
+    span:
+    - body
+    - 10782
+    - 10782
+  label: 毒峰禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-54
+    span:
+    - body
+    - 11010
+    - 11010
+  label: 護國寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-55
+    span:
+    - body
+    - 11013
+    - 11013
+  label: 隆興黃龍無門慧開禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-56
+    span:
+    - body
+    - 11630
+    - 11630
+  label: 杭州護國臭菴宗禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-57
+    span:
+    - body
+    - 11824
+    - 11824
+  label: 昭慶寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-58
+    span:
+    - body
+    - 11827
+    - 11827
+  label: 宋真悟律師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-59
+    span:
+    - body
+    - 11919
+    - 11919
+  label: 宋道匡禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-60
+    span:
+    - body
+    - 12098
+    - 12098
+  label: 省僜禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-61
+    span:
+    - body
+    - 12445
+    - 12445
+  label: 宋省常
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-62
+    span:
+    - body
+    - 12563
+    - 12563
+  label: 子元禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-63
+    span:
+    - body
+    - 12948
+    - 12948
+  label: 玉泉寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-64
+    span:
+    - body
+    - 12951
+    - 12951
+  label: 齊玉泉法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-65
+    span:
+    - body
+    - 13100
+    - 13100
+  label: 懿禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-66
+    span:
+    - body
+    - 13241
+    - 13241
+  label: 虎跑寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-67
+    span:
+    - body
+    - 13244
+    - 13244
+  label: 唐杭州大慈山釋寰中
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-68
+    span:
+    - body
+    - 13511
+    - 13511
+  label: 慧因寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-69
+    span:
+    - body
+    - 13514
+    - 13514
+  label: 慧因懷祥禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-70
+    span:
+    - body
+    - 13565
+    - 13565
+  label: 慧因義寧禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-71
+    span:
+    - body
+    - 13598
+    - 13598
+  label: 淨源住慧因院見長水諸師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-72
+    span:
+    - body
+    - 13637
+    - 13637
+  label: 法相寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-73
+    span:
+    - body
+    - 13640
+    - 13640
+  label: 長耳和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-74
+    span:
+    - body
+    - 13722
+    - 13722
+  label: 六通寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-75
+    span:
+    - body
+    - 13725
+    - 13725
+  label: 五代杭州六通慈德僧彥求
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-76
+    span:
+    - body
+    - 13840
+    - 13840
+  label: 宋杭州龍興宗靖禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-77
+    span:
+    - body
+    - 14104
+    - 14104
+  label: 龍井寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-78
+    span:
+    - body
+    - 14107
+    - 14107
+  label: 宋杭州龍井通禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-79
+    span:
+    - body
+    - 14222
+    - 14222
+  label: 宋辯才淨法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-80
+    span:
+    - body
+    - 14472
+    - 14472
+  label: 五雲院
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-81
+    span:
+    - body
+    - 14475
+    - 14475
+  label: 杭州五雲山華嚴道塲志逢大師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-82
+    span:
+    - body
+    - 15305
+    - 15305
+  label: 開化寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-83
+    span:
+    - body
+    - 15308
+    - 15308
+  label: 月輪山開化傳法大師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-84
+    span:
+    - body
+    - 15466
+    - 15466
+  label: 宋僧統賛寧法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-85
+    span:
+    - body
+    - 15690
+    - 15690
+  label: 天龍寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-86
+    span:
+    - body
+    - 15693
+    - 15693
+  label: 五代杭州天龍寺重機明真大師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-87
+    span:
+    - body
+    - 15920
+    - 15920
+  label: 天龍俱胝和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-88
+    span:
+    - body
+    - 16209
+    - 16209
+  label: 後唐杭州天龍寺釋道怤
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-89
+    span:
+    - body
+    - 16444
+    - 16444
+  label: 杭州天龍和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-90
+    span:
+    - body
+    - 16518
+    - 16518
+  label: 宋杭州天龍秀禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-91
+    span:
+    - body
+    - 16683
+    - 16683
+  label: 龍華寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-92
+    span:
+    - body
+    - 16686
+    - 16686
+  label: 宋龍華真覺大師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-93
+    span:
+    - body
+    - 17327
+    - 17327
+  label: 契盈廣辯周智大師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-94
+    span:
+    - body
+    - 17448
+    - 17448
+  label: 慧居禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-95
+    span:
+    - body
+    - 17632
+    - 17632
+  label: 勝果寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-96
+    span:
+    - body
+    - 17635
+    - 17635
+  label: 無著禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-97
+    span:
+    - body
+    - 18085
+    - 18085
+  label: 僧淨梵
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-98
+    span:
+    - body
+    - 18356
+    - 18356
+  label: 報國寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-99
+    span:
+    - body
+    - 18359
+    - 18359
+  label: 大元杭州鳳山大報國廣智全悟笑隱訢禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-100
+    span:
+    - body
+    - 18914
+    - 18914
+  label: 大明楚石禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-101
+    span:
+    - body
+    - 19220
+    - 19220
+  label: 萬壽寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-102
+    span:
+    - body
+    - 19223
+    - 19223
+  label: 宋杭州靈鳳山萬壽法詮禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-103
+    span:
+    - body
+    - 19347
+    - 19347
+  label: 靈芝寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-104
+    span:
+    - body
+    - 19350
+    - 19350
+  label: 宋大智元照律師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-105
+    span:
+    - body
+    - 19580
+    - 19580
+  label: 佛印名了元
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-106
+    span:
+    - body
+    - 19638
+    - 19638
+  label: 千佛寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-107
+    span:
+    - body
+    - 19641
+    - 19641
+  label: 漢錢塘千佛釋希覺
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-108
+    span:
+    - body
+    - 20223
+    - 20223
+  label: 慈光寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-109
+    span:
+    - body
+    - 20226
+    - 20226
+  label: 宋釋晤恩
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-110
+    span:
+    - body
+    - 20878
+    - 20878
+  label: 立中成禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-111
+    span:
+    - body
+    - 21163
+    - 21163
+  label: 仁王寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0429_B_010-mulu-112
+    span:
+    - body
+    - 21166
+    - 21166
+  label: 杭州仁王復禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-juan-start
+    span:
+    - body
+    - 0
+    - 13894
+  label: '欽定四庫全書
+
+    　武林梵志卷十一'
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-1
+    span:
+    - body
+    - 5
+    - 5
+  label: 古德機緣三
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-2
+    span:
+    - body
+    - 5
+    - 5
+  label: 報恩寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-3
+    span:
+    - body
+    - 8
+    - 8
+  label: 五代杭州報恩慧明禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-4
+    span:
+    - body
+    - 434
+    - 434
+  label: 法安禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-5
+    span:
+    - body
+    - 594
+    - 594
+  label: 宋釋永安
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-6
+    span:
+    - body
+    - 860
+    - 860
+  label: 慧月禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-7
+    span:
+    - body
+    - 935
+    - 935
+  label: 通辨明達禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-8
+    span:
+    - body
+    - 1057
+    - 1057
+  label: 玄則禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-9
+    span:
+    - body
+    - 1300
+    - 1300
+  label: 從󳮸禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-10
+    span:
+    - body
+    - 1408
+    - 1408
+  label: 法輪寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-11
+    span:
+    - body
+    - 1411
+    - 1411
+  label: 法輪端禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-12
+    span:
+    - body
+    - 1534
+    - 1534
+  label: 添禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-13
+    span:
+    - body
+    - 1607
+    - 1607
+  label: 妙行寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-14
+    span:
+    - body
+    - 1610
+    - 1610
+  label: 思淨錢
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-15
+    span:
+    - body
+    - 1688
+    - 1688
+  label: 香積寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-16
+    span:
+    - body
+    - 1691
+    - 1691
+  label: 宋三藏法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-17
+    span:
+    - body
+    - 1906
+    - 1906
+  label: 僊林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-18
+    span:
+    - body
+    - 1909
+    - 1909
+  label: 大明師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-19
+    span:
+    - body
+    - 2141
+    - 2141
+  label: 廣化寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-20
+    span:
+    - body
+    - 2144
+    - 2144
+  label: 錢唐廣化住持覺宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-21
+    span:
+    - body
+    - 2390
+    - 2390
+  label: 崇先寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-22
+    span:
+    - body
+    - 2393
+    - 2393
+  label: 宋杭州崇先真歇清了禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-23
+    span:
+    - body
+    - 2795
+    - 2795
+  label: 黃龍菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-24
+    span:
+    - body
+    - 2798
+    - 2798
+  label: 臯亭黃龍慧南禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-25
+    span:
+    - body
+    - 3342
+    - 3342
+  label: 晦堂心禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-26
+    span:
+    - body
+    - 3569
+    - 3569
+  label: 佛日寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-27
+    span:
+    - body
+    - 3572
+    - 3572
+  label: 宋杭州佛日本空禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-28
+    span:
+    - body
+    - 3953
+    - 3953
+  label: 智才禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-29
+    span:
+    - body
+    - 4197
+    - 4197
+  label: 淨慧戒弼禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-30
+    span:
+    - body
+    - 4228
+    - 4228
+  label: 文祖禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-31
+    span:
+    - body
+    - 4299
+    - 4299
+  label: 奉先寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-32
+    span:
+    - body
+    - 4302
+    - 4302
+  label: 杭州奉先法明普照禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-33
+    span:
+    - body
+    - 4398
+    - 4398
+  label: 宋奉先法昱禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-34
+    span:
+    - body
+    - 4486
+    - 4486
+  label: 華嚴寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-35
+    span:
+    - body
+    - 4489
+    - 4489
+  label: 唐杭州華嚴釋玄
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-36
+    span:
+    - body
+    - 5129
+    - 5129
+  label: 羅漢寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-37
+    span:
+    - body
+    - 5132
+    - 5132
+  label: 宋宗徹禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-38
+    span:
+    - body
+    - 5323
+    - 5323
+  label: 七寶寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-39
+    span:
+    - body
+    - 5326
+    - 5326
+  label: 宋用欽居
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-40
+    span:
+    - body
+    - 5416
+    - 5416
+  label: 慶善寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-41
+    span:
+    - body
+    - 5419
+    - 5419
+  label: 杭州慶善院普能禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-42
+    span:
+    - body
+    - 5583
+    - 5583
+  label: 杭州慶善守隆禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-43
+    span:
+    - body
+    - 5727
+    - 5727
+  label: 千頃慈雲院
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-44
+    span:
+    - body
+    - 5732
+    - 5732
+  label: 唐杭州千頃山釋楚南
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-45
+    span:
+    - body
+    - 6146
+    - 6146
+  label: 廣福寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-46
+    span:
+    - body
+    - 6149
+    - 6149
+  label: 臨安府廣福惟尚禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-47
+    span:
+    - body
+    - 6310
+    - 6310
+  label: 興教寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-48
+    span:
+    - body
+    - 6313
+    - 6313
+  label: 興教洪壽禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-49
+    span:
+    - body
+    - 6386
+    - 6386
+  label: 龍興寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-50
+    span:
+    - body
+    - 6389
+    - 6389
+  label: 唐杭州龍興釋可周
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-51
+    span:
+    - body
+    - 6659
+    - 6659
+  label: 漢杭州龍興釋宗季
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-52
+    span:
+    - body
+    - 6982
+    - 6982
+  label: 多福寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-53
+    span:
+    - body
+    - 6985
+    - 6985
+  label: 宋杭州多福和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-54
+    span:
+    - body
+    - 7048
+    - 7048
+  label: 湖光寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-55
+    span:
+    - body
+    - 7051
+    - 7051
+  label: 周杭州湖光釋師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-56
+    span:
+    - body
+    - 7294
+    - 7294
+  label: 常照寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-57
+    span:
+    - body
+    - 7297
+    - 7297
+  label: 宋慧明禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-58
+    span:
+    - body
+    - 7379
+    - 7379
+  label: 天目山
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-59
+    span:
+    - body
+    - 7382
+    - 7382
+  label: 唐天目釋明覺
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-60
+    span:
+    - body
+    - 7648
+    - 7648
+  label: 唐錢塘永福釋慧琳
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-61
+    span:
+    - body
+    - 8027
+    - 8027
+  label: 高峯禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-62
+    span:
+    - body
+    - 8518
+    - 8518
+  label: 中峯禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-63
+    span:
+    - body
+    - 9115
+    - 9115
+  label: 斷崖禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-64
+    span:
+    - body
+    - 10106
+    - 10106
+  label: 大明空谷禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-65
+    span:
+    - body
+    - 10312
+    - 10312
+  label: 淨土院
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-66
+    span:
+    - body
+    - 10315
+    - 10315
+  label: 淨土惟正禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-67
+    span:
+    - body
+    - 11009
+    - 11009
+  label: 光慶寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-68
+    span:
+    - body
+    - 11012
+    - 11012
+  label: 光慶遇安禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-69
+    span:
+    - body
+    - 11553
+    - 11553
+  label: 武林山
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-70
+    span:
+    - body
+    - 11556
+    - 11556
+  label: 支遁
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-71
+    span:
+    - body
+    - 11616
+    - 11616
+  label: 禪月大師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-72
+    span:
+    - body
+    - 11681
+    - 11681
+  label: 宋慧亨住
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-73
+    span:
+    - body
+    - 11797
+    - 11797
+  label: 後唐杭州真身寶塔釋景霄
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-74
+    span:
+    - body
+    - 11996
+    - 11996
+  label: 杭州瑞龍幼璋禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-75
+    span:
+    - body
+    - 12361
+    - 12361
+  label: 杭州傾心法󱒧宗一禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-76
+    span:
+    - body
+    - 12685
+    - 12685
+  label: 餘杭大錢山從襲禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-77
+    span:
+    - body
+    - 12834
+    - 12834
+  label: 瞽菴講師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-78
+    span:
+    - body
+    - 13093
+    - 13093
+  label: 千歲和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-79
+    span:
+    - body
+    - 13355
+    - 13355
+  label: 海月法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0429_B_011-mulu-80
+    span:
+    - body
+    - 13617
+    - 13617
+  label: 水源法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6v0429_B_012-juan-start
+    span:
+    - body
+    - 0
+    - 5810
+  label: '欽定四庫全書
+
+    　武林梵志卷十二'
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6v0429_B_012-mulu-1
+    span:
+    - body
+    - 5
+    - 5
+  label: 歷朝勳績
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6v0429_B_012-mulu-2
+    span:
+    - body
+    - 69
+    - 69
+  label: 浙江
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6v0429_B_012-mulu-3
+    span:
+    - body
+    - 792
+    - 792
+  label: 捍江塘
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6v0429_B_012-mulu-4
+    span:
+    - body
+    - 1598
+    - 1598
+  label: 鐵幢浦
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6v0429_B_012-mulu-5
+    span:
+    - body
+    - 1884
+    - 1884
+  label: 西湖
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6v0429_B_012-mulu-6
+    span:
+    - body
+    - 3440
+    - 3440
+  label: 唐君
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6v0429_B_012-mulu-7
+    span:
+    - body
+    - 4403
+    - 4403
+  label: 南湖
+  type: mulu
+  level: 1
+hash: sha256:4a2962b5461a29e69fac3f0999a3b2e8bebf74a6220a559cfb9a17d116101b5b
